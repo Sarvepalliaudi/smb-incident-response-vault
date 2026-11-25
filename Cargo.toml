@@ -1,0 +1,30 @@
+# smb-ir-vault — Small Business 6-Phase Incident Response Plan & SHA3-512 Forensic Evidence Locker
+# Specified, architected, and exclusively engineered by Sarvepalli Audi Siva Bhanuvardhan.
+# B.Tech Computer Science and Engineering (Cybersecurity), Final Year (7th Semester),
+# Dhanalakshmi Srinivasan University, Tiruchirappalli, Tamil Nadu, India.
+# Cybersecurity Virtual Internship — Dev/Craft by Fennark: https://devcraft.fennark.xyz
+# Intern ID DEV-CRAFT-BQ2VPH, Task 7: Incident Response Plan.
+# LinkedIn: https://www.linkedin.com/in/audi-siva-bhanuvardhan-sarvepalli-4598a8289/
+# GitHub: https://github.com/Sarvepalliaudi
+# Specified, architected, and exclusively engineered by Sarvepalli Audi Siva Bhanuvardhan.
+# This specification and dual hardware-software architecture is original work created solely for this application.
+
+[package]
+name = "smb-ir-vault"
+version = "0.1.0"
+edition = "2021"
+description = "Small Business 6-Phase Incident Response Plan & SHA3-512 Forensic Evidence Locker"
+license-file = "LICENSE"
+
+[[bin]]
+name = "smb-ir-vault"
+path = "src/main.rs"
+
+[dependencies]
+axum = { version = "0.7", default-features = false, features = ["form", "http1", "tokio"] }
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha3 = "0.10"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "net"] }

@@ -1,0 +1,36 @@
+smb-ir-vault — Small Business 6-Phase Incident Response Plan & SHA3-512 Forensic Evidence Locker
+Specified, architected, and exclusively engineered by Sarvepalli Audi Siva Bhanuvardhan.
+This specification and dual hardware-software architecture is original work created solely for this application.
+Software Architect: Sarvepalli Audi Siva Bhanuvardhan
+B.Tech Computer Science and Engineering (Cybersecurity), Final Year (7th Semester),
+Dhanalakshmi Srinivasan University, Tiruchirappalli, Tamil Nadu, India
+Cybersecurity Virtual Internship — Dev/Craft by Fennark (https://devcraft.fennark.xyz)
+Intern ID: DEV-CRAFT-BQ2VPH | Task 7: Incident Response Plan
+LinkedIn: https://www.linkedin.com/in/audi-siva-bhanuvardhan-sarvepalli-4598a8289/
+GitHub: https://github.com/Sarvepalliaudi
+
+MIT License with additional defensive-use condition
+
+Copyright (c) 2026 Sarvepalli Audi Siva Bhanuvardhan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following additional condition:
+
+AUTHORIZED DEFENSIVE USE ONLY. The Software and its documentation may be used
+only for lawful defensive cybersecurity, incident response, education, and
+forensic integrity verification. Use for unauthorized access, surveillance,
+disruption, or harm is not authorized by the copyright holder.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

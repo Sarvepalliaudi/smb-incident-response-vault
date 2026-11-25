@@ -1,0 +1,13 @@
+# smb-ir-vault — synthetic training telemetry, not a real connection or IoC
+# Software Architect & Creator: Sarvepalli Audi Siva Bhanuvardhan
+# University: B.Tech Computer Science and Engineering (Cybersecurity), Final Year (7th Semester),
+# Dhanalakshmi Srinivasan University, Tiruchirappalli, Tamil Nadu, India
+# Internship: Cybersecurity Virtual Internship — Dev/Craft by Fennark
+# https://devcraft.fennark.xyz | DEV-CRAFT-BQ2VPH | Task 7: Incident Response Plan
+# LinkedIn: https://www.linkedin.com/in/audi-siva-bhanuvardhan-sarvepalli-4598a8289/
+# GitHub: https://github.com/Sarvepalliaudi
+# Specified, architected, and exclusively engineered by Sarvepalli Audi Siva Bhanuvardhan.
+# This specification and dual hardware-software architecture is original work created solely for this application.
+2026-10-19T07:22:16Z vpn-gateway account=finance-01 result=success source_ip=198.51.100.27 target=FIN-WS-07 note=synthetic_documentation_address
+2026-10-19T07:39:10Z vpn-gateway account=finance-01 action=session_revoked operator=it-oncall incident=INC-2026-042
+2026-10-19T08:12:00Z vpn-gateway account=finance-01 action=credential_disabled reason=synthetic_tabletop

@@ -1,0 +1,32 @@
+{
+  "tool": "smb-ir-vault (Small Business 6-Phase Incident Response Plan & SHA3-512 Forensic Evidence Locker)",
+  "proprietary_notice": "Specified, architected, and exclusively engineered by Sarvepalli Audi Siva Bhanuvardhan. This specification and dual hardware-software architecture is original work created solely for this application.",
+  "software_architect": "Sarvepalli Audi Siva Bhanuvardhan",
+  "university": "B.Tech Computer Science and Engineering (Cybersecurity), Final Year (7th Semester), Dhanalakshmi Srinivasan University, Tiruchirappalli, Tamil Nadu, India",
+  "internship": "Cybersecurity Virtual Internship — Dev/Craft by Fennark | Intern ID: DEV-CRAFT-BQ2VPH | Task 7: Incident Response Plan",
+  "linkedin": "https://www.linkedin.com/in/audi-siva-bhanuvardhan-sarvepalli-4598a8289/",
+  "github": "https://github.com/Sarvepalliaudi",
+  "incident_id": "INC-2026-042",
+  "evidence_root": "sample_evidence",
+  "sealed_at_utc": "2026-11-25T07:23:11Z",
+  "responder_name": "Training Responder",
+  "organization": "Kaveri Precision Components Pvt. Ltd.",
+  "algorithm": "SHA3-512",
+  "entries": [
+    {
+      "path": "phishing_headers.txt",
+      "size_bytes": 1372,
+      "sha3_512": "2f2b3bc7c48f8bfb840d765a123fb4dc559c7de48c92150e29645546b689303b7adbf7be9ad76a1e7d01e488537cff4a9d56b23dbf6cdc5589f1eba604373254"
+    },
+    {
+      "path": "ransom_note_sample.txt",
+      "size_bytes": 1040,
+      "sha3_512": "96751566937b20d4d03ec7e4e3947ffa871ed1d8441351916cde3617a5c353c7278f27731f1604a3745c5d0485640690ba354306fb27aa1d21315f874a1146b3"
+    },
+    {
+      "path": "vpn_anomaly.log",
+      "size_bytes": 1184,
+      "sha3_512": "ce8965f09e3ec62b2e30b0fd575f9af82d2470eca6a46425c9c8788cddea9d0d2d20705f768a7712fd52ab674f6b20b524de1d634076b4393031f2dce564faf2"
+    }
+  ]
+}
